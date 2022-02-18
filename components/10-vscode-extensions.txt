@@ -1,0 +1,24 @@
+#####################################################
+# List of all extensions I want installed
+#
+# 2022-02-18
+#####################################################
+
+bencoleman.armview
+davidanson.vscode-markdownlint
+eamodio.gitlens
+github.codespaces
+hbenl.vscode-test-explorer
+kavod-io.vscode-jest-test-adapter
+mechatroner.rainbow-csv
+ms-azuretools.vscode-docker
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-wsl
+ms-vscode.powershell
+ms-vscode.test-adapter-converter
+msazurermtools.azurerm-vscode-tools
+robertz.code-snapshot
+streetsidesoftware.code-spell-checker
+streetsidesoftware.code-spell-checker-dutch

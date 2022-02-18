@@ -5,7 +5,7 @@
 ################################################
 
 # Package file location
-$package_file = Join-Path $PSScriptRoot "winget-packages.json";
+$package_file = Join-Path $PSScriptRoot "03-winget-packages.json";
 
 if (Test-Path -Path $package_file -PathType Leaf) {
   Write-Output "Installing all packages in $package_file";

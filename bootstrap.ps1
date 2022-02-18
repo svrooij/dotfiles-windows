@@ -5,6 +5,12 @@
 Get-ChildItem -Path "components" -Filter "*.ps1" |
 ForEach-Object {
   Write-Output "Starting $_";
-  Invoke-Expression -Command "$_";
+  try {
+    Invoke-Expression -Command "$_";
+  }
+  finally {
+    
+  }
+  
 };
 
